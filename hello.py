@@ -1,6 +1,7 @@
-// For command line git tutorit o 
-// GitHu modified 
-
+// ++++++++++++++++++++++++++++
+// For command line git tutorial 
+// GitHub modification 
+// ++++++++++++++++++++++++++++
 print("hello world")
 print("Hi jinuk")
 print("Hi Wonji")
