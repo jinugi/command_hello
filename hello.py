@@ -1,3 +1,5 @@
+// For command line git tutorial
+// GitHub Modification
 print("helllo ams")
 print("hello mas")
 print("hello world")
